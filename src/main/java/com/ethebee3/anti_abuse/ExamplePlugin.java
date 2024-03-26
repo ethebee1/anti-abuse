@@ -1,4 +1,4 @@
-package com.crimsonwarpedcraft.exampleplugin;
+package com.ethebee3.anti_abuse;
 
 import io.papermc.lib.PaperLib;
 import org.bukkit.plugin.java.JavaPlugin;
