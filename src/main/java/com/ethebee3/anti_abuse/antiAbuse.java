@@ -11,11 +11,6 @@ import org.bukkit.plugin.PluginDescriptionFile;
 import org.bukkit.plugin.PluginManager;
 
 
-/**
- * Created by Levi Muniz on 7/29/20.
- *
- * @author Copyright (c) Levi Muniz. All Rights Reserved.
- */
 @SuppressWarnings("deprecation")
 public class antiAbuse extends JavaPlugin {
 
