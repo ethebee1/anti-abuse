@@ -18,3 +18,4 @@ permissions:
     default: false
     children:
       example.test: true
+      
