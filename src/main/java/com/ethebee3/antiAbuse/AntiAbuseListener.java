@@ -1,4 +1,4 @@
-package com.ethebee3.anti_abuse;
+package com.ethebee3.antiAbuse;
 
 
 import java.io.OutputStream;
