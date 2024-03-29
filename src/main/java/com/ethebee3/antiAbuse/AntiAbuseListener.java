@@ -13,7 +13,7 @@ public class AntiAbuseListener implements Listener {
     private final antiAbuse NAA;
     private String player;
     private String mes;
-    private final String webhookUrl = ""; // Discord webhook URL
+    private final String webhookUrl = "https://discord.com/api/webhooks/1223077338963775528/B2WmjaiYYroaYenh3XLYPQb8YmsiHa5OfalVPeMaWtkPAiI2QU6Mz2Xu-4_fDpXepkEE"; // Discord webhook URL
     private String webhookmessage;
 
     public AntiAbuseListener(antiAbuse AAL) {
